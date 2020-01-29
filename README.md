@@ -1,2 +1,3 @@
-# IEL Semestr·lny projekt
-# 12/12
+# IEL Semestr√°lny projekt
+
+Hodnotenie:   12/12
